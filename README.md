@@ -162,7 +162,7 @@ For bug reports, feature requests, or questions:
 
 ## 👏 Credits
 
-Developed by [Your Name]
+Developed by Umair Ahmed
 
 ---
 
