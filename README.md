@@ -168,4 +168,4 @@ Developed by [Your Name]
 
 ⭐ If you find this tool useful, consider starring this repository!
 
-**Note:** This extension is distributed outside the Chrome Web Store to maintain free access for developers.# live-css-editor
+**Note:** This extension is distributed outside the Chrome Web Store to maintain free access for developers.
