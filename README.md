@@ -41,18 +41,18 @@ A powerful Chrome extension for web developers that provides in-page CSS editing
 
 4. **Start using!**
    - Click the extension icon in your toolbar
-   - Or press `Ctrl+Shift+D` (Mac: `Cmd+Shift+D`)
+   - Or press `Ctrl+Shift+E` (Mac: `Cmd+Shift+E`)
 
 ## ⌨️ Keyboard Shortcuts
 
 | Shortcut | Action |
 |----------|--------|
-| `Ctrl+Shift+D` | Toggle Dev Tools Panel |
-| `Ctrl+Shift+I` | Activate Inspector Mode |
-| `Ctrl+Shift+X` | Activate CSS Extractor Mode |
-| `Ctrl+Shift+V` | Extract All CSS Variables |
-| `Ctrl+Shift+F` | Inject into Iframe |
-| `Ctrl+Shift+E` | Hide/Show Editor Panel |
+| `Ctrl+Shift+E` | Toggle Dev Tools Panel |
+| `Ctrl+Alt+I` | Activate Inspector Mode |
+| `Ctrl+Alt+X` | Activate CSS Extractor Mode |
+| `Ctrl+Alt+V` | Extract All CSS Variables |
+| `Ctrl+Alt+F` | Inject into Iframe |
+| `Ctrl+Alt+E` | Hide/Show Editor Panel |
 
 *On Mac, use `Cmd` instead of `Ctrl`*
 
@@ -60,14 +60,14 @@ A powerful Chrome extension for web developers that provides in-page CSS editing
 
 ### Live CSS Editor
 
-1. Activate the dev tools (click icon or press `Ctrl+Shift+D`)
+1. Activate the dev tools (click icon or press `Ctrl+Shift+E`)
 2. Type CSS in the editor
 3. Changes apply instantly to the page
 4. CSS is automatically saved per domain
 
 ### Inspector Mode
 
-1. Click the 🔍 button or press `Ctrl+Shift+I`
+1. Click the 🔍 button or press `Ctrl+Alt+I`
 2. Hover over elements to inspect them
 3. Use navigation:
    - `↑` Arrow - Navigate to parent element
@@ -79,7 +79,7 @@ A powerful Chrome extension for web developers that provides in-page CSS editing
 
 ### CSS Extractor Mode
 
-1. Click the 📋 button or press `Ctrl+Shift+X`
+1. Click the 📋 button or press `Ctrl+Alt+X`
 2. Hover over elements to preview
 3. Use arrow keys to navigate
 4. Press `Enter` or click "Extract" to extract complete CSS including:
@@ -91,7 +91,7 @@ A powerful Chrome extension for web developers that provides in-page CSS editing
 
 ### CSS Variables
 
-1. Click the 🎨 button or press `Ctrl+Shift+V`
+1. Click the 🎨 button or press `Ctrl+Alt+V`
 2. All CSS custom properties from `:root` and `html` will be extracted
 3. Variables are inserted at the top of your editor
 
