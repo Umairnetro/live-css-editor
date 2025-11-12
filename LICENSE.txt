@@ -1,0 +1,27 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2025 [Your Name/Company Name]
+
+All Rights Reserved
+
+This software and associated documentation files (the "Software") are proprietary 
+and confidential. 
+
+PERMITTED USE:
+- Personal use only
+- Educational purposes only
+- Non-commercial use only
+
+PROHIBITED:
+- Commercial use without written permission
+- Redistribution, modification, or derivative works
+- Reverse engineering, decompilation, or disassembly
+- Removal of copyright notices or this license
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+For commercial licensing inquiries, contact: [your-email@example.com]
+
+Violation of this license may result in legal action.
