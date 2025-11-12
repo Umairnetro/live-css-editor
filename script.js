@@ -4,8 +4,7 @@ function handleDownload() {
 }
 
 function handleLearnMore() {
-  window.location.href =
-    "https://github.com/Umairnetro/live-css-editor";
+  window.open("https://github.com/Umairnetro/live-css-editor", "_blank");
 }
 
 const observerOptions = {
