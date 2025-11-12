@@ -122,7 +122,7 @@ This extension:
 
 ## 📄 License
 
-Copyright (c) 2025 [Your Name]. All Rights Reserved.
+Copyright (c) 2025 Umair Ahmed. All Rights Reserved.
 
 This software is proprietary and confidential. See [LICENSE.txt](LICENSE.txt) for details.
 
