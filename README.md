@@ -136,7 +136,7 @@ This software is proprietary and confidential. See [LICENSE.txt](LICENSE.txt) fo
 - ❌ Redistribution or modification
 - ❌ Removal of copyright notices
 
-For commercial licensing inquiries, contact: [your-email@example.com]
+For commercial licensing inquiries, contact: umair.ahmed7829@gmail.com
 
 ## 🐛 Known Issues
 
