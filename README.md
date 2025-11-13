@@ -146,7 +146,7 @@ None currently reported.
 
 For bug reports, feature requests, or questions:
 - Open an issue in the [Issues](../../issues) section
-- Email: [your-email@example.com]
+- Email: umair.ahmed7829@gmail.com
 
 ## 🔄 Updates
 
